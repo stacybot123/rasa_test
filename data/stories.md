@@ -94,8 +94,8 @@
 * inform{"location": "paris"}
     - slot{"location": "paris"}
     - action_weather
-* inform{"location": "hajipur"}
-    - slot{"location": "hajipur"}
+* inform{"location": "New York"}
+    - slot{"location": "New York"}
     - action_weather
 * goodbye
 
